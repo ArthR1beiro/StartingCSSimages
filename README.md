@@ -9,5 +9,5 @@
 
 ## Autores
 
-- [@Arthur Ribeiro](https://www.github.com/ArthR1beiro)
+- [Arthur Ribeiro Aguiar](https://www.github.com/ArthR1beiro)
 
